@@ -1,2 +1,2 @@
-# Image-Text-Generator-Salesforce_Blip
+# Image-Text-Generator-HuggingFace
 BLIP: Bootstrapping Language-Image Pre-training
